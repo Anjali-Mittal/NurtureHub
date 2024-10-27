@@ -6,25 +6,25 @@ const articles = [
     title: "Understanding Nutrition",
     description: "A deep dive into the essentials of nutrition.",
     link: "https://americanpregnancy.org/healthy-pregnancy/",
-    image: "https://example.com/image-nutrition.jpg", // Replace with actual image URLs
+    image: "https://images.app.goo.gl/AvVHqgvAZLWE3WeUA", // Replace with actual image URLs
   },
   {
     title: "Mental Health Matters",
     description: "Exploring the importance of mental health.",
     link: "https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-018-2087-4",
-    image: "https://example.com/image-mental-health.jpg",
+    image: "https://images.app.goo.gl/QSbT9f9rzpV12w5v5",
   },
   {
     title: "Genetic Counseling Insights",
     description: "What you need to know about genetic counseling.",
     link: "https://www.ajog.org/article/S0002-9378(21)02728-9/fulltext",
-    image: "https://example.com/image-genetic-counseling.jpg",
+    image: "https://images.app.goo.gl/YZyw4dtVSpnokuzD7",
   },
   {
     title: "Stages of Fetal Development",
     description: "Understanding the stages of growth in fetal development.",
     link: "https://my.clevelandclinic.org/health/articles/7247-fetal-development-stages-of-growth",
-    image: "https://example.com/image-fetal-development.jpg",
+    image: "https://images.app.goo.gl/y23QCs8Vm2ji8Psi8",
   },
 ];
 
